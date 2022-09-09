@@ -2,4 +2,4 @@
 <img width="1492" alt="Schermafbeelding 2022-09-09 om 10 53 29" src="https://user-images.githubusercontent.com/89298385/189344327-2dadf414-4451-44a8-bb25-42eb63a76e63.png">
 
 
-Voor deze task had ik diverse schetsen gemaakt voor een versie-B
+Voor deze task had ik diverse schetsen gemaakt voor een versie-B.
